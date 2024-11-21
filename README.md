@@ -8,4 +8,4 @@ This is a project I started studying to learn how to use **PySpark** for analysi
 ## [PizzaSales](https://github.com/nikososat/MyPortfolioProjects/blob/main/PizzaSales.ipynb)
 That's a **Microsoft PowerBI** 2-page report that visualizes insights and trends of a whole year Pizza Sales dataset. The first page is an overview of this business while the second presents the 5 top/bottom performing pizzas by Revenue, Items and Category. There are also slicers in both pages to choose category or a specific date range as well as buttons to navigate through the report (though in this pdf version no interaction is possible!).
 # Contact Information
-Feel free to contact me via [my LinkedIn profile](www.linkedin.com/in/nikolaos-satlas-b23230275) or email me at nikososat@gmail.com
+Feel free to contact me via [my LinkedIn profile](https://www.linkedin.com/in/nikolaos-satlas-b23230275) or email me at nikososat@gmail.com
