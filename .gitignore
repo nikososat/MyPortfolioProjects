@@ -1,0 +1,6 @@
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---- Jovian (Notebook sharing) ----
+.jovianrc
