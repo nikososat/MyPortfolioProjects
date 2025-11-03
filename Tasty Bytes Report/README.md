@@ -11,19 +11,22 @@ More traffic means more subscriptions so **the company wanted us to predict corr
 5. Made suggestions for improvement based on findings
 
 ## Key EDA insights
-![high_traffic_current_pct](./images/high_traffic_current_pct.png)
+![high_traffic_current_pct](./images/high_traffic_current_pct.png)  
+
 Displaying the Product Manager's favorite recipes on their homepage, has led in high traffic 60% of the times.
 
-The recipe category is the key variable associated with high traffic. 
+The **recipe category is the key variable associated with high traffic**. 
 
-![popular_recipes_by_category_pct](./images/popular_recipes_by_category_pct.png)
-There's very high percentage of Vegetable, Potato and Pork recipes that has led to high traffic.
+![popular_recipes_by_category_pct](./images/popular_recipes_by_category_pct.png)  
+
+There's **very high percentage of Vegetable, Potato and Pork recipes that has led to high traffic**.
 
 ## Outcome of model training
 The best model I tried, **predicted correctly high traffic recipes 84% of the time** so it surpassed the 80% goal set.
 
 ## Business Recommendations
-![proposed_percentage_of_categories](./images/proposed_percentage_of_categories.png)
+![proposed_percentage_of_categories](./images/proposed_percentage_of_categories.png)  
+
 As variety should exist to retain customers' interest, I would propose **the frequencies of the categories of the recipes displayed on the homepage, to match the order and proportion they hold in the Percentage of Popular Recipes by Category** graph to try going along with the current trend in the market.
 
 **Keep track of the evolving trends** as with the model deployment, popular recipes from all categories will appear more often and may attract many new customers, who might soon change the current trend!
