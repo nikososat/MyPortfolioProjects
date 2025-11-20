@@ -37,4 +37,4 @@ Moreover, **'Time to make' and 'Cost per serving'** are data that exist, since t
 Finally, **date data should be gathered for every recipe** displayed, as seasonal or even date specific trends should probably exist.
 
 ## KPI to monitor performance/improvement
-The business should **monitor the percentage of recipes that lead to high traffic** when displayed on their homepage, **as KPI**. Based on the data they provided us, its current value is about 60% and we expect that deploying our model can help it climb above 80%.  
+The business should **monitor the percentage of recipes that lead to high traffic** when displayed on their homepage, **as KPI**. Based on the data they provided us, its **current value is about 60%** and we expect that deploying **our model can help it climb above 80%**.  
