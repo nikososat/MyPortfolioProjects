@@ -2,6 +2,14 @@
 ## Project Overview and Business Goals
 An aspiring art collector asked me to analyse this dataset to help him navigate into art and find potential buying targets to start building a collection.  
 
+## Procedure Followed
+1. Created a new database and tables to host the dataset
+2. Imported data from csv files into the tables
+3. Cleaned and validated data
+4. Analysed data
+5. Present Insights
+6. Made Suggestion
+
 ## General Findings
 The dataset is about **420 different artists from a total of 18 countries**. However, artists from the **3 most featured countries (France, USA and Holland) add up to more than half of total**.
 
